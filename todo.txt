@@ -1,0 +1,57 @@
+Curse Into a Webpage
+Html and Css
+
+
+[X] Big Words
+[X] Which Tag?
+[X] Back and Font
+[X] Which is Orange?
+[X] Which Colors Text?
+[X] Custom Style
+[X] Which Selector?
+[X] Exchanging Words
+[X] How to Get it?
+[X] Which Text?
+[] Working Together
+[] What´s the Diference?
+
+
+PICTURES AND BUTTONS
+[] inser images
+[] to close or not to close
+[] How atributte?
+[] Tall and Wide
+[] A Basic Button
+[] which Button
+[] Cute as Button
+[] which Style?
+[] Button up
+[] An image change
+
+HTML ELEMENTS USING JS
+[] Smaller words
+[] Highlight
+[] Which Display
+[] How to id
+[] Another Paragraph
+[] which Way
+[] Good Dog
+[] appending Kittens
+[] which Child
+[] How to Order
+[] Cats and Dogs
+[] Loopys
+
+More CSS and JS
+[] Pet of the Month
+[] Animal party
+
+Animal Adoption
+[] Just a Title
+[] Getting the Data
+[] Picture Perfect
+[] adding Buttons
+[] Time to Style
+[] liste Closely
+
+
