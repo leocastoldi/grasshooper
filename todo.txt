@@ -13,7 +13,7 @@ Html and Css
 [X] How to Get it?
 [X] Which Text?
 [X] Working Together
-[] What´s the Diference?
+[X] What´s the Diference?
 
 
 PICTURES AND BUTTONS
