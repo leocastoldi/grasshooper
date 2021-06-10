@@ -18,7 +18,7 @@ Html and Css
 
 PICTURES AND BUTTONS
 [X] insert images
-[] to close or not to close
+[X] to close or not to close
 [] How atributte?
 [] Tall and Wide
 [] A Basic Button
