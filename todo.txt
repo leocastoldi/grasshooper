@@ -20,7 +20,7 @@ PICTURES AND BUTTONS
 [X] insert images
 [X] to close or not to close
 [X] How atributte?
-[] Tall and Wide
+[X] Tall and Wide
 [] A Basic Button
 [] which Button
 [] Cute as Button
